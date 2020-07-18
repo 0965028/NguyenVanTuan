@@ -1,0 +1,46 @@
+.login-bg{
+    background-color: rgb(155, 170, 167);
+    margin: auto;
+    padding: 40px;
+}
+.login-input-area input[type="email"], .login-input-area input[type="password"], .login-input-area input[type="text"]{
+    width: 304px;
+    height: 35px;
+    padding: 0px 35px 0px 10px;
+    margin: 10px 0px;
+    border: 1px solid #ccc;
+}
+.login-input-head p {
+    padding: 16px 0px;
+    margin: 0;
+    font-size: 14px;
+}
+.interested-input-area select, .budget-input-area select {
+    width: 334px;
+    height: 35px;
+    padding: 0px 35px 0px 10px;
+    border: 1px solid #ccc;
+}
+.interested-input-area select {
+    margin: 10px 0px 10px 0px;
+}
+.login-button-pro .login-button {
+    padding: 10px 20px;
+    border: none;
+    background: #03a9f4;
+    color: #fff;
+    font-weight: 14px;
+    transition: all .4s ease 0s;
+    margin-top: 15px;
+}
+.login-input-area .login-user {
+    position: absolute;
+    top: 10px;
+    right: 0;
+    height: 35px;
+    width: 35px;
+    border-left: 1px solid #ccc;
+    line-height: 35px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}

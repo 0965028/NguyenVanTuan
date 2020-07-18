@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/poly/Test/TestAP.java=UTF-8
+encoding//src/poly/Test/TestData.java=UTF-8
+encoding//src/poly/Test/TestDepart.java=UTF-8
+encoding//src/poly/Test/TestLoginl_Logout_Vi_En.java=UTF-8
+encoding//src/poly/Test/TestReport.java=UTF-8
+encoding//src/poly/Test/TestSendMail.java=UTF-8
+encoding//src/poly/Test/TestStaff.java=UTF-8
+encoding//src/poly/Test/TestUser.java=UTF-8
+encoding//src/poly/Test/datafile.properties=UTF-8
+encoding//src/poly/Test/locator.properties=UTF-8
+encoding//src/poly/controller/AdminController.java=UTF-8
+encoding//src/poly/controller/DepartController.java=UTF-8
+encoding//src/poly/controller/LoginController.java=UTF-8
+encoding//src/poly/controller/MailController.java=UTF-8
+encoding//src/poly/controller/RecordController.java=UTF-8
